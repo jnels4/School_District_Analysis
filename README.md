@@ -64,7 +64,7 @@ The next four views we looked at were:
 
 - School data accross school type (charter vs district)
 
-
+<img width="592" alt="Screen Shot 2022-05-09 at 12 09 05 PM" src="https://user-images.githubusercontent.com/6634774/167451671-f3d49efa-ff65-4329-9cc1-09625d1d9237.png">
 
 
 

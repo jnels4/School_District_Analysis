@@ -19,9 +19,11 @@ This project was requested by a school district to gain insights for school metr
 - python3 pandas 
 - python3 numpy
 - jupiter notebook
+- pyCitySchools.ipynb
+- pyCitySchools_Challenge_final.ipynb
 
 
-## Initial Data Overview
+## Initial Data Overview (pyCitySchools)
 
 The initial data analysis was done for all students of all schools in this district.  The first step was cleaning the data, we noticed that some of the students had unusual prefixes and suffixes in their names, by pulling out all the prefixes and suffixes we were able to identify the anomalies (DR., MD., DDS., etc) and strip them from the file.  Once we had cleaned up the student data, we were able to merge the student data with the overall school data based on the school name.  The merge allowed us to see all school and student data in one data frame. 
 

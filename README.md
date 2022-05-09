@@ -68,7 +68,25 @@ The next four views we looked at were:
 
 ## Initial findings
 
-After reviewing the initial analysis on the school data, we c
+After reviewing the initial analysis on the school data, we can see: 
+1. Cursory analysis showed the top 5 schools each had a passing rate over 90%.
+2. The bottom 5 schools each had a passing rate below 55%.
+3. Top 5 schools math and reading passing percentages were within 4 points of each other.
+4. Bottom 5 schools math and reading passing percentages were over 10 points apart and all cases math was the lower of the two.
+5. Counterintuitively, schools who spent the lowest amount per student (<$585) statistically performed the best accross all metrics.
+6. Schools which spent the most per student had the lowest overall passing rate by a large margin. 
+7. Medium sized schools performed the best, followed very closely by small schools - large schools performed the worst accross all metrics (by far). 
+8. Charter schools performed better than distric schools accross all metrics.
+
+
+## Further review
+
+After our initial findings were sent to the client, we recieved information that one high school reported wide spread academic dishonesty amongst their freshman class.  Thus, we had to review our findings and recalculate all data for that specific school (and the aggregate), without counting the 9th grade from that particular school.
+
+We created a new variable to store the updated number of students, while removing the amount of 9th grade students from the school in question. 
+
+Next, we had to re-do the metrics for that particular school, and adjust the overall metrics on an as-needed basis.  
+
 
 
 

@@ -87,6 +87,16 @@ We created a new variable to store the updated number of students, while removin
 
 Next, we had to re-do the metrics for that particular school, and adjust the overall metrics on an as-needed basis.  
 
+After removing the 9th grade class for the high school in question, we re-calculated the top and botom 5 schools.  The results did not change, leaving the same schools in both the top and bottom 5. (keep in mind this data is not fully formatted yet, as we were still working with the numbers, and did not want to risk formatting columns that we would need to manipulate in the future)
+
+Top 5
+
+<img width="800" alt="Screen Shot 2022-05-09 at 12 48 51 PM" src="https://user-images.githubusercontent.com/6634774/167458479-66e0570f-c701-4f21-9202-41a46344459a.png">
+
+Bottom 5
+
+<img width="804" alt="Screen Shot 2022-05-09 at 12 49 11 PM" src="https://user-images.githubusercontent.com/6634774/167458534-79334fc9-6f08-4e33-b52e-3f893bcf996f.png">
+
 
 
 

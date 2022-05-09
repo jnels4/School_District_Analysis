@@ -33,8 +33,7 @@ Next, we wanted to find a top-down view for the entire district that included ov
 
 Now that we had the overall district information, we reported this back to our clients and continued with our requested deliverables.
 
-We took a number of new views:
-- Scores & Pass rates by school.  With this view, the district leaders can see the overall aggregate view for each school.  This data is good for a surface level view, but does not give us any in-depth analysis.  The district also wanted the top 5 and bottom 5 schools based on overall passing rates (percentage of students who passed both math and reading exams).  This data is (mostly) unformatted because we were still working with it and adding to it as we got deeper into the analysis.  (screen shots following)
+First, we looked at scores & pass rates by school.  With this view, the district leaders can see the overall aggregate view for each school.  This data is good for a surface level view, but does not give us any in-depth analysis. The district also wanted the top 5 and bottom 5 schools based on overall passing rates (percentage of students who passed both math and reading exams).  This data is (mostly) unformatted because we were still working with it and adding to it as we got deeper into the analysis.  (screen shots following)
 
 Overall School Data
 

@@ -133,7 +133,7 @@ Why did the overall statistics not change?
   2. Amount of data - There's a total of 39170 students in the district, the 9th grade of this particular school was 461 students.  Due to the sheer amount of data, this was only 1.1% of the total data that was thrown out, not causing any significant damage to the overall results.
 
 Suggestions to the district:
-  1. Overall, math scores are lower than reading accross the board.  We suggest: Investing school funds into math cirricula, Observing classrooms/practices in schools that have math scores >90 or percentages > 90%, investigating the elementary/middle schools that feed the high school district.
+  1. Overall, math scores are lower than reading accross the board.  We suggest: Investing school funds into math cirricula, Observing classrooms/practices in schools that have math scores >90 or percentages > 90%, investigating the elementary/middle schools that feed the high school districts with low scores.
   2. Schools that performed best had under 2000 students.  We suggest: Looking at the larger schools and seeing if they can be divided up into smaller community schools.  
   3. Re-test the 9th grade of the affected school, and add their data back to the analysis; while this may not have a large impact, it woulud give us (even if very slight) a better picture of how the entire district did as a whole. 
-  4. 
+  

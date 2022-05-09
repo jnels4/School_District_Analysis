@@ -87,7 +87,9 @@ We created a new variable to store the updated number of students, while removin
 
 Next, we had to re-do the metrics for that particular school, and adjust the overall metrics on an as-needed basis.  
 
-After removing the 9th grade class for the high school in question, we re-calculated the top and botom 5 schools.  The results did not change, leaving the same schools in both the top and bottom 5. (keep in mind this data is not fully formatted yet, as we were still working with the numbers, and did not want to risk formatting columns that we would need to manipulate in the future)
+After removing the 9th grade class for the high school in question, we re-calculated the top and botom 5 schools.  The results did not change, leaving the same schools in both the top and bottom 5. (keep in mind this data is not fully formatted yet, as we were still working with the numbers, and did not want to risk formatting columns that we would need to manipulate in the future).  
+
+While the data for the affected school did change slight (less than a point), the schools rank did not change.
 
 Top 5
 
@@ -97,7 +99,41 @@ Bottom 5
 
 <img width="804" alt="Screen Shot 2022-05-09 at 12 49 11 PM" src="https://user-images.githubusercontent.com/6634774/167458534-79334fc9-6f08-4e33-b52e-3f893bcf996f.png">
 
+Schools grouped by spending per student
+Due to one school losing their entire 9th grade data, we had to re calculate the average scores/percentages for each spending bracket.  Removing the 9th grade for one of the schools had no impact on the metrics for the spending groups.  
+
+<img width="794" alt="Screen Shot 2022-05-09 at 1 06 50 PM" src="https://user-images.githubusercontent.com/6634774/167461305-90e043cc-9add-4b8a-931c-5c55c6be2fa5.png">
+
+Schools grouped by school size
+
+Again for the schools grouped by school size, the data did not change in any significant way, as we can see by comparing each chart before and after.  This means that removing the 9th grade for one school was not a significant enough of a change to skew the data. 
+
+<img width="690" alt="Screen Shot 2022-05-09 at 1 10 20 PM" src="https://user-images.githubusercontent.com/6634774/167461836-a590bd78-806b-4fe7-b291-d38945b4e6af.png">
+
+Schools by school type
+
+Lastly, the differentiation between charter and district school did not change in any significant way.  Once the data was formatted it looks exactly like the picture before.
+
+<img width="622" alt="Screen Shot 2022-05-09 at 1 12 09 PM" src="https://user-images.githubusercontent.com/6634774/167462108-0623fef8-020a-42a8-97d4-f0cd80820a2a.png">
 
 
+## Conclusions
 
+Once the 9th grade was removed:
 
+The data for the particular school changed; however not significantly, each metric decreased by a fractional percentage which did not change rankings or overall statistics accross the school district.
+  1. Average Math score          Before: 83.41   After:  83.35
+  2. Average Reading score       Before: 83.85   After:  83.89
+  3. % Passing math              Before: 93.27   After:  93.19%
+  4. % Passing reading           Before: 97.31   After:  97.02%
+  5. % Overall passing           Before: 90.95   After:  90.63%
+
+Why did the overall statistics not change? 
+  1. Formatting - the district asked for 1 decimal place for Averages and 0 decimal places for percentages.  Due to this, the change in data was not significant enough to show up in the final formatted data.
+  2. Amount of data - There's a total of 39170 students in the district, the 9th grade of this particular school was 461 students.  Due to the sheer amount of data, this was only 1.1% of the total data that was thrown out, not causing any significant damage to the overall results.
+
+Suggestions to the district:
+  1. Overall, math scores are lower than reading accross the board.  We suggest: Investing school funds into math cirricula, Observing classrooms/practices in schools that have math scores >90 or percentages > 90%, investigating the elementary/middle schools that feed the high school district.
+  2. Schools that performed best had under 2000 students.  We suggest: Looking at the larger schools and seeing if they can be divided up into smaller community schools.  
+  3. Re-test the 9th grade of the affected school, and add their data back to the analysis; while this may not have a large impact, it woulud give us (even if very slight) a better picture of how the entire district did as a whole. 
+  4. 

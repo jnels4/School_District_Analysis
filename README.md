@@ -39,9 +39,11 @@ Overall School Data
 <img width="804" alt="Screen Shot 2022-05-09 at 8 50 27 AM" src="https://user-images.githubusercontent.com/6634774/167413407-7c4a208d-df7d-4304-b4d1-4727e493cd81.png">
 
 Top 5 Schools
+
 <img width="804" alt="Screen Shot 2022-05-09 at 8 53 02 AM" src="https://user-images.githubusercontent.com/6634774/167413911-1df51a86-7c46-4cf1-9a1f-b22c69297c6e.png">
 
 Bottom 5 Schools
+
 <img width="804" alt="Screen Shot 2022-05-09 at 8 53 42 AM" src="https://user-images.githubusercontent.com/6634774/167414023-6c7942e8-027f-476f-a7c2-b7a307a68c95.png">
 
 

@@ -47,6 +47,21 @@ Bottom 5 Schools
 
 <img width="804" alt="Screen Shot 2022-05-09 at 8 53 42 AM" src="https://user-images.githubusercontent.com/6634774/167414023-6c7942e8-027f-476f-a7c2-b7a307a68c95.png">
 
+The next four views we looked at were:
+- School data accross grade bands
+
+<img width="310" alt="Screen Shot 2022-05-09 at 10 51 59 AM" src="https://user-images.githubusercontent.com/6634774/167436823-84d987ae-a9f5-4be8-93d7-baa60f62c330.png">
+
+- School data accross student spending 
+
+<img width="790" alt="Screen Shot 2022-05-09 at 10 52 56 AM" src="https://user-images.githubusercontent.com/6634774/167437007-e499ae45-f3d4-478f-a9e9-2d8d13cb22dd.png">
+
+
+- School data accross school size
+- School data accross school type (charter vs district)
+
+
+
 
 
 
